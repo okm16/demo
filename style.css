@@ -1,0 +1,18 @@
+body{
+
+    background-color: aquamarine;
+    color: coral;
+    display: flex;
+    flex-direction: column; /* ترتيب العناصر بشكل عمودي */
+    justify-content: center; /* توسيط أفقي */
+    align-items: center; /* توسيط عمودي */
+    height: 100%;
+    text-align: center; /* لتوسيط النص أفقيًا داخل العناصر */
+}
+a{
+    color:red;
+  
+}
+a:hover{
+    color:darkgray;
+}
